@@ -1,4 +1,4 @@
-- title: Getting started
+- title: Ponto de partida
   pages:
     - title: Introduction
     - title: Download
@@ -19,7 +19,7 @@
     - title: Media object
     - title: Responsive utilities
 
-- title: Content
+- title: Conteúdo
   pages:
     - title: Reboot
     - title: Typography
@@ -28,7 +28,7 @@
     - title: Tables
     - title: Figures
 
-- title: Components
+- title: Componentes
   pages:
     - title: Buttons
     - title: Button group
@@ -59,7 +59,7 @@
 #     - title: Approach
 #     - title: Icon fonts
 
-- title: About
+- title: Sobre
   pages:
     - title: History
     - title: Team
@@ -67,4 +67,4 @@
     - title: License
     - title: Translations
 
-- title: Migration
+- title: Migração
