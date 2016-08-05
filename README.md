@@ -1,3 +1,12 @@
+# Documentação do Bootstrap em Português (BR)
+Seja bem vindo(a) à versão traduzida da documentação do [Bootstrap](http://getbootstrap.com "Site original do Bootstrap em inglês") para português brasileiro!
+Esta tradução foi iniciada por @adammacias e @flaviacs e está sendo atualmente traduzida por mim (@liddack).
+Este projeto está atualmente na fase inicial de tradução, e, ao fim desta etapa, tem-se como objetivo fazer um *pull request* ao projeto principal (https://github.com/bootstrapbrasil/bootstrap).
+
+Se estiver interessado em ajudar, fique à vontade para *commitar* suas mudanças! :smile:
+
+____
+
 # [Bootstrap](http://getbootstrap.com)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
