@@ -1,17 +1,17 @@
 <div class="bs-docs-section">
   <h1 id="whats-included" class="page-header">O que está incluso</h1>
 
-  <p class="lead">Bootstrap está disponível para download em duas formas, no qual você encontrará os seguintes diretórios e arquivos, agrupando logicamente recursos comuns e fornecendo ambas as variações: compilados e minificados.</p>
+  <p class="lead">O Bootstrap está disponível para download em duas formas, nas quais você encontrará os seguintes diretórios e arquivos, agrupando logicamente recursos comuns e fornecendo ambas as variações: compilados e minificados.</p>
 
   <div class="bs-callout bs-callout-warning" id="jquery-required">
     <h4>jQuery obrigatório</h4>
-    <p>Por favor, note que <strong>todos plugins JavaScript necessitam do jQuery</strong> para serem incluídos, como mostrado no <a href="#template">template de partida</a>. <a href="{{ site.repo }}/blob/v{{ site.current_version }}/bower.json">Consulte nosso <code>bower.json</code></a> para ver quais versões do jQuery são suportados.</p>
+    <p>Por favor, note que <strong>todos plugins JavaScript necessitam do jQuery</strong> para serem incluídos, como mostrado no <a href="#template">template básico</a>. <a href="{{ site.repo }}/blob/v{{ site.current_version }}/bower.json">Consulte nosso <code>bower.json</code></a> para ver quais versões do jQuery são suportadas.</p>
   </div>
 
   <h2 id="whats-included-precompiled">Bootstrap pré-compilado</h2>
-  <p>Feito o download, descompacte a pasta compactada para ver a estrutura do Bootstrap (o compilado). Você verá algo parecido com isto:</p>
-<!-- NOTE: This info is intentionally duplicated in the README.
-Copy any changes made here over to the README too. -->
+  <p>Feito o download, extraia a pasta compactada para ver a estrutura do Bootstrap (compilado). Você verá algo parecido com isto:</p>
+<!-- NOTA: Esta informação foi intencionalmente duplicada no README.
+Copie qualquer mudança feita aqui para o README também. -->
 {% highlight bash %}
 bootstrap/
 ├── css/
@@ -33,12 +33,12 @@ bootstrap/
     ├── glyphicons-halflings-regular.woff
     └── glyphicons-halflings-regular.woff2
 {% endhighlight %}
-<!-- NOTE: This info is intentionally duplicated in the README.
-Copy any changes made here over to the README too. -->
-  <p>Esta é a forma mais básica de Bootstrap: arquivos pré-compilados, caí como uma luva para quase qualquer um projeto web. Nós fornecemos CSS e JS compilados (<code>bootstrap.*</code>), assim como CSS e JS compilados e minificados (<code>bootstrap.min.*</code>). CSS <a href="https://developer.chrome.com/devtools/docs/css-preprocessors">source maps</a> (<code>bootstrap.*.map</code>) estão disponíveis para uso com ferramentas de desenvolvimento em determinados navegadores. Fonts Glyphicons estão incluídos, assim como o tema Bootstrap opcional.</p>
+<!-- NOTA: Esta informação foi intencionalmente duplicada no README.
+Copie qualquer mudança feita aqui para o README também. -->
+  <p>Esta é a forma mais básica do Bootstrap: arquivos pré-compilados caem como uma luva em quase qualquer projeto web. Nós fornecemos CSS e JS compilados (<code>bootstrap.*</code>), assim como CSS e JS compilados e minificados (<code>bootstrap.min.*</code>). <a href="https://developer.chrome.com/devtools/docs/css-preprocessors">Source maps</a> CSS (<code>bootstrap.*.map</code>) estão disponíveis para uso com ferramentas de desenvolvimento em determinados navegadores. Fontes Glyphicons estão incluídas, assim como o tema opcional do Bootstrapl.</p>
 
-  <h2 id="whats-included-source">Bootstrap código fonte</h2>
-  <p>O download do código fonte Bootstrap inclui o CSS, JavaScript pré-compilados e assets fonts, junto com o fonte do Less, JavaScripts e documentação. Mais precisamente, ele inclui algo assim:</p>
+  <h2 id="whats-included-source">Código-fonte do Bootstrap</h2>
+  <p>O download do código fonte do Bootstrap inclui CSS, JavaScript e assets fonts, tudo pré-compilado, junto com código-fonte Less, JavaScripts e a documentação. Mais precisamente, ele inclui algo assim:</p>
 {% highlight bash %}
 bootstrap/
 ├── less/
@@ -51,5 +51,5 @@ bootstrap/
 └── docs/
     └── examples/
 {% endhighlight %}
-  <p>Os diretórios <code>less/</code>, <code>js/</code>, e <code>fonts/</code> incluí códigos fonte para nosso CSS, JS, e fonts ícones (respectivamente). O diretório <code>dist/</code> incluí tudo referente a sessão de download pré-compilado sozinho. O diretório <code>docs/</code> incluí o código fonte da documentação, com exemplos de uso em <code>examples/</code>. Além disso, qualquer outro arquivo incluído fornece suporte para pacotes, informações de licença e desenvolvimento.</p>
+  <p>Os diretórios <code>less/</code>, <code>js/</code>, e <code>fonts/</code> inclui os códigos-fonte do nosso CSS, JS, e fontes de ícones (respectivamente). O diretório <code>dist/</code> sozinho já vem com tudo listado na seção de download pré-compilado. O diretório <code>docs/</code> inclui o código-fonte da documentação, com exemplos de uso em <code>examples/</code>. Além disso, qualquer outro arquivo incluído fornece suporte para pacotes, informações de licença e desenvolvimento.</p>
 </div>
