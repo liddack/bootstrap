@@ -1,7 +1,9 @@
 # Documentação do Bootstrap em Português (BR)
 Seja bem vindo(a) à versão traduzida da documentação do [Bootstrap](http://getbootstrap.com "Site original do Bootstrap em inglês") para português brasileiro!
-Esta tradução foi iniciada por @adammacias e @flaviacs e está sendo atualmente traduzida por mim (@liddack).
+Esta tradução foi iniciada por [@adammacias](https://github.com/adammacias) e [@flaviacs](https://github.com/flaviacs) e está sendo atualmente traduzida por mim ([@liddack](https://github.com/liddack)).
 Este projeto está atualmente na fase inicial de tradução, e, ao fim desta etapa, tem-se como objetivo fazer um *pull request* ao projeto principal (https://github.com/bootstrapbrasil/bootstrap).
+
+Você pode acompanhar o progresso da tradução através [desta *issue*](https://github.com/liddack/bootstrap/issues/1).
 
 Se estiver interessado em ajudar, fique à vontade para *commitar* suas mudanças! :smile:
 
