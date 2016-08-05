@@ -1,3 +1,10 @@
+# Contribuindo com a tradução
+Para contribuir esta tradução você tem a opção de clonar/baixar este repositório e fazer as mudanças localmente ou editar no próprio GitHub.
+Você pode acompanhar o progresso da tradução [nesta *issue*](https://github.com/liddack/bootstrap/issues/1).
+
+**Importante:** Ao realizar *commits*, referencie a *issue* do link acima adicionando `#1` na descrição do seu *commit*, para eu poder saber que alguma mudança foi feita.
+Exemplo: `Translated Features in Home #1`.
+
 # Contributing to Bootstrap
 
 Looking to contribute something to Bootstrap? **Here's how you can help.**
